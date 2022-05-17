@@ -1,0 +1,9 @@
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.Main.resources
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.Properties.Resources.resources
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.csproj.GenerateResource.Cache
+E:\Temp\WordDemo\WordDemo\bin\Debug\WordDemo.exe
+E:\Temp\WordDemo\WordDemo\bin\Debug\WordDemo.pdb
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.exe
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.pdb
+E:\Temp\WordDemo\WordDemo\bin\Debug\Microsoft.Office.Interop.Word.dll
+E:\Temp\WordDemo\WordDemo\obj\Debug\WordDemo.csprojResolveAssemblyReference.cache
